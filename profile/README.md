@@ -9,6 +9,8 @@ The platform is built around a simple principle: Bitcoin on-chain data should be
 - [CoreCharts](https://corecharts.com)
 - [CoreCharts Workspace](https://corecharts.com/app)
 - [CoreCharts Docs](https://docs.corecharts.com)
+- [CoreCharts Updates](https://corecharts.com/updates)
+- [CoreCharts on X](https://x.com/CoreChartsHQ)
 - [Interactive Bitcoin metrics](./metric-index.md)
 - [Metric documentation](./metric-docs-index.md)
 
